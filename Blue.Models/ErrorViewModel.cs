@@ -1,4 +1,4 @@
-namespace BlueShop.Models
+namespace Blue.Models
 {
     public class ErrorViewModel
     {

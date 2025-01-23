@@ -1,5 +1,4 @@
 using System.Diagnostics;
-using BlueShop.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlueShop.Controllers
